@@ -23,7 +23,20 @@ youtube:
 
 ---
 
-Foso - a young band from eastern Ukraine with downtempo, triphop and alternative indie-rock music.
+Foso, hailing from Eastern Ukraine and now rocking Berlin, is redefining the music scene with a sound that's both nostalgic and innovative. Drawing inspiration from legends like Radiohead, Portishead, and the Red Hot Chili Peppers, Foso combines the haunting introspection of trip-hop with the raw energy of alternative rock. The result is a unique musical identity that is deep, expressive, and unforgettable.
+
+The band’s journey began in the heart of Eastern Ukraine, where Mykola and Mykyta cultivated their sound amidst a backdrop of cultural and musical influences. Their move to Berlin infused their music with a fresh, cosmopolitan edge, blending their roots with the vibrant, eclectic spirit of one of Europe's music capitals.
+
+Foso’s debut single, "Lepaman," epitomizes their meticulous approach to music-making. The track is a finely-tuned composition where each instrument and vocal layer contributes to a larger, cohesive whole. It's a song you can listen to repeatedly, discovering new nuances and emotions with each play. The minimalist beats and delicate melodies create a captivating groove, while the expressive backing vocals add depth and color to the overall sound.
+
+The accompanying music video for "Lepaman" is a visual feast, enhancing the listening experience with its stylish and sincere portrayal. Shot with a keen eye for color and mood, the video reflects Foso's commitment to authenticity and artistry. It's a confident piece that showcases the band's ability to blend experimentation with respect for their craft.
+
+In Berlin, Foso continues to evolve, constantly pushing the boundaries of their sound. Their music is a journey, one that began in the streets of Eastern Ukraine and is now reaching new heights in the vibrant city of Berlin. With each release, Foso promises to deliver more of their unique blend of alt-rock and trip-hop, captivating audiences and carving out their place in the music world.
+
+**Debut Release: Lepaman**\
+Format: Single, Music Video, Cover Art\
+Release Date: 27.07.2023\
+Foso's debut single "Lepaman" is a stylish and sincere piece that's been meticulously crafted. It's a track you can listen to over and over, with new details revealing themselves each time. The music video adds another layer of depth, with its cool, confident visuals.
 
 {% include socials.html %}
 
