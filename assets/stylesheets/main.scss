@@ -1,0 +1,76 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// Theme skin
+@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
+
+@import "basically-basic";
+
+.intro-image:after {
+  content: '';
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  height: 50%;
+  bottom: 0px;
+  background: linear-gradient(180deg, rgba(139,167,32,0) 0%, rgba(255,255,255,1) 100%);
+  pointer-events: none;
+}
+
+.initial-content {
+  text-align: justify;
+}
+
+.inner {
+  margin: auto;
+}
+
+hr {
+  height: 0.1em;
+  background: grey;
+  border: 0px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.quote-container {
+  font-weight: lighter;
+}
+
+.quote {
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+.author {
+  font-weight: bold;
+  color: black;
+}
+
+.socials_container {
+  width: 100%;
+}
+
+.socials {
+  width: fit-content;
+  margin: auto;
+}
+
+.youtube {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+.insta_containter {
+  width: 100%;
+  overflow: auto;
+  padding-bottom: 2em;
+}
+
+.instagram-media {
+  float: left;
+  margin: 0.2em!important;
+}
